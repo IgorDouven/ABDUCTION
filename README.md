@@ -1,2 +1,2 @@
 # ABDUCTION
-Supplementary Materials for *Abduction: A self-help book*
+Supplementary materials for *Abduction: A self-help book*
