@@ -1,2 +1,2 @@
 # ABDUCTION
-Supplementary materials for *The art of abduction* (MIT Press, 2021)
+Supplementary materials for *The art of abduction* (MIT Press, 2022)
